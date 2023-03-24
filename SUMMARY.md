@@ -10,4 +10,3 @@
 * [Architecture diagram PNH](architecture-diagram-pnh.md)
 * [Modelleren dataobjecten](modelleren-dataobjecten.md)
 * [GitBook\_test\_mermaid](gitbook\_test\_mermaid.md)
-* [Page 2](page-2.md)
