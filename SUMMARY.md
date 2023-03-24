@@ -11,4 +11,3 @@
 * [Modelleren dataobjecten](modelleren-dataobjecten.md)
 * [GitBook\_test\_mermaid](gitbook\_test\_mermaid.md)
 * [Page 2](page-2.md)
-* [GitBook\_test\_mermaid](gitbook\_test\_mermaid-1.md)
