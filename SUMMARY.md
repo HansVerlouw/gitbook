@@ -7,6 +7,5 @@
 * [meldingen importeren](meldingen-importeren.md)
 * [kaartlagen](kaartlagen.md)
 * [release\_notes](release\_notes.md)
-* [Architecture diagram PNH](architecture-diagram-pnh.md)
 * [Modelleren dataobjecten](modelleren-dataobjecten.md)
 * [GitBook\_test\_mermaid](gitbook\_test\_mermaid.md)
