@@ -1,6 +1,6 @@
 # GitBook\_test\_mermaid
 
-Mermaid voorbeelden
+Mermaid voorbeelden (nu ANSI)
 
 ```mermaid
 graph TD;
