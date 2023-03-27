@@ -1,5 +1,3 @@
-# readme
-
 ## DataCatalog
 
 :information_source: Wat is het...

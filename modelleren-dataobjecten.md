@@ -1,8 +1,12 @@
 # Modelleren dataobjecten
 
-.. admonition:: Wat is het...
+:information_source: Wat is het...
 
-    Dataobjecten kunnen via objectrelaties met andere dataobjecten gekoppeld worden en zo datamodellen beschrijven.
+{% code overflow="wrap" %}
+```
+Dataobjecten kunnen via objectrelaties met andere dataobjecten gekoppeld worden en zo datamodellen beschrijven.
+```
+{% endcode %}
 
 ### Objectmodellen
 
