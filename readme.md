@@ -15,7 +15,7 @@ Uit de organisatie komen regelmatig vragen over de data die we dagelijks verzame
 
 Op deze vragen moet DataCatalog antwoorden geven.
 
-## Wat gaan we doen:
+## :information\_source: Wat gaan we doen...
 
 De data in de belangrijkste bronsystemen (vakapplicaties) worden tot op attribuutniveau in de DataCatalog database beschreven. Denk aan definities, eigenaarschap, beheer, vertrouwelijkheidsniveau, lifecycle en andere metadata.
 
@@ -29,7 +29,7 @@ De metadata (data over data) van alles wat hierboven beschreven staat is geregis
 
 Met behulp van de verzamelde metadata gaan we ook uitspraken doen over de datakwaliteit.
 
-## Wie gaat dat doen:
+## :information\_source: Wie gaat dat doen...
 
 De realisatie van DataCatalog ligt bij de afdelingen WADI en Servicestaf:
 
