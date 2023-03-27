@@ -24,7 +24,7 @@ In het basis (Archimate) objectenmodel worden alleen de volgende statische relat
 
 Relaties tussen dataobjecten
 
-```markdown
+
 | n | Relatietype | Definitie |
 | --- | ----------- | --------- |
 | 1 | aggregates_to | Wordt geaggregeerd door bovenliggend dataobject |
@@ -35,7 +35,6 @@ Relaties tussen dataobjecten
 | 6 | depends_on    | Is afhankelijk van bovenliggend dataobject |
 | 7 | relates_to    | Is gerelateerd aan bovenliggend dataobject |
 
-```
 
 Let op: We spreken hier over _dataobjecten_. Een dataobject 'stuw' is per definitie niet gelijk aan een bedrijfsobject 'stuw'.
 
