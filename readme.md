@@ -39,12 +39,10 @@ Datahub is de centrale Azure omgeving waarin de organisatie haar data onafhankel
 
 In Datahub wordt:
 
-```
 * data centraal verzameld,
 * data centraal beschikbaar gesteld,
 * data verrijkt en geanalyseerd,
 * Informatieproducten gerealiseerd,
 * Data en Informatieproducten gedistribueerd.
-```
 
 Zie ook de `architectuur <../html/_static/archi_datahub/archi_datahub.html>`\_ van DataHub
