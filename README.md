@@ -1,6 +1,6 @@
 # DataCatalog
 
-## Wat is het:
+## :information\_source: Wat is het...
 
 DataCatalog is een combinatie van data uit bronsystemen, een metadata database en webservices.
 
