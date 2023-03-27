@@ -29,11 +29,13 @@ Concept/Outline BasisMetadata/Basismetadata Concept/Data lifecycle management Co
 
 ## Datahub
 
-.. admonition:: Wat is het...
+:information_source: Wat is het...
 
+{% code overflow="wrap" %}
 ```
 Datahub is de centrale Azure omgeving waarin de organisatie haar data onafhankelijk verzamelt, bewerkt en ontsluit
 ```
+{% endcode %}
 
 In Datahub wordt:
 
