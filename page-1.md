@@ -1,7 +1,7 @@
 # Page 1
 
 ```mermaid
-flowchart BT
+    flowchart BT
         materieel -- aggregates_to --> bedrijfsobject
         immaterieel -- aggregates_to --> bedrijfsobject
         verzorgingsgebied -- aggregates_to --> immaterieel
