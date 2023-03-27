@@ -1,46 +1,42 @@
-## DataCatalog
+# DataCatalog
 
-:information_source: Wat is het...
+## Wat is het:
 
-{% code overflow="wrap" %}
-```
-DataCatalog is een metadata registratie systeem dat bedrijfsdata en dataproducten beschrijft in termen van wat is het, wie erover gaat, waar het te vinden is en tot welke informatieproducten het leidt.
-```
-{% endcode %}
+DataCatalog is een combinatie van data uit bronsystemen, een metadata database en webservices.
 
-Alle in DataCatalog beschreven bedrijfsdata is op- of via Datahub beschikbaar. DataCatalog biedt naast metadata beschrijvingen ook:
+Uit de organisatie komen regelmatig vragen over de data die we dagelijks verzamelen:
 
-* een baseline die inzicht geeft in _verleden, heden en toekomst_ van de beschreven data,
-* een systematiek voor het aggregeren en specialiseren van attributen -> dataobjecten -> datasets -> informatieproducten (UML model),
-* informatie over de diverse webservices die attribuutgroepen bij bronsystemen ophalen,
-* het modelleren van dataobjecten op basis van vrij te definieren relaties,
-* een (BIV) dataclassificatie,
-* een beperkte harmonisatie op gegevenstypen (geometrieën, datum, datumtijd, eenheden),
-* het aan/uit kunnen zetten van attributen in datasets,
-* veranderdetectie op belangrijke data,
-* een optie om bepaalde data te vlaggen als onbetrouwbaar,
-* veel data kwaliteit metrics (rapportage op data)
+* Welke data hebben we eigenlijk?
+* Wat betekent die data?
+* Wie gaat er over die data?
+* Wat is de datakwaliteit?
+* Kan ik data uit verschillende bronnen combineren?
+* Mag ik die data zomaar doorgeven aan derden?
 
-.. toctree:: :maxdepth: 1
+Op deze vragen moet DataCatalog antwoorden geven.
 
-Concept/Outline BasisMetadata/Basismetadata Concept/Data lifecycle management Concept/Metadata baseline Concept/Domeinwaarden Concept/Samenstellen dataobjecten Concept/Modelleren dataobjecten Functies/Functies Concept/Standaarden Requirements/Requirements Datakwaliteit/Indicatoren.rst Functies/MetadataRecords.rst
+## Wat gaan we doen:
 
-## Datahub
+De data in de belangrijkste bronsystemen (vakapplicaties) worden tot op attribuutniveau in de DataCatalog database beschreven. Denk aan definities, eigenaarschap, beheer, vertrouwelijkheidsniveau, lifecycle en andere metadata.
 
-:information_source: Wat is het...
+Deze losse attributen gaan we bundelen tot zakelijke dataobjecten die we eenduidig via API's (webservices) gaan ontsluiten. Hierbij speelt Datahub een rol als distributeur.
 
-{% code overflow="wrap" %}
-```
-Datahub is de centrale Azure omgeving waarin de organisatie haar data onafhankelijk verzamelt, bewerkt en ontsluit
-```
-{% endcode %}
+Een dataobject staat nooit op zichzelf, maar is deel van een groter geheel (datamodellen). Dataobjecten die bij elkaar passen worden samengevoegd tot datasets. Een dataset draagt altijd bij aan een specifiek doel.
 
-In Datahub wordt:
+Datasets zijn de basis voor informatieproducten zoals websites, portalen, rapporten. Omdat alle data in een dataset al verzameld en gekoppeld is wordt het maken van informatieproducten eenvoudiger.
 
-* data centraal verzameld,
-* data centraal beschikbaar gesteld,
-* data verrijkt en geanalyseerd,
-* Informatieproducten gerealiseerd,
-* Data en Informatieproducten gedistribueerd.
+De metadata (data over data) van alles wat hierboven beschreven staat is geregistreerd en vindbaar in de DataCatalog database.
 
-Zie ook de `architectuur <../html/_static/archi_datahub/archi_datahub.html>`\_ van DataHub
+Met behulp van de verzamelde metadata gaan we ook uitspraken doen over de datakwaliteit.
+
+## Wie gaat dat doen:
+
+De realisatie van DataCatalog ligt bij de afdelingen WADI en Servicestaf:
+
+* Sander Schenk
+* Pim van Santen
+* Hans Verlouw
+* Fred van Bemmel
+* Peter Bange
+
+in samenwerking met beheerders van vakapplicaties, potentiele data afnemers en vele anderen.
