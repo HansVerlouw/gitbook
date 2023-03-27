@@ -49,6 +49,6 @@ In Datahub wordt:
 * Informatieproducten gerealiseerd,
 * Data en Informatieproducten gedistribueerd.
 
-<figure><img src=".gitbook/assets/DataHub Jip en Janneke.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/DataHub Jip en Janneke.png" alt=""><figcaption><p>DataHub en DataCatalog schematisch weergegeven in Jip-en-Janneke taal</p></figcaption></figure>
 
 Zie ook de `architectuur <../html/_static/archi_datahub/archi_datahub.html>`\_ van DataHub
