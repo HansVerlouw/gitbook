@@ -1,8 +1,9 @@
 # DataCatalog
 
-.. admonition:: Wat is het...
+```Wat is het...
 
-    DataCatalog is een metadata registratie systeem dat bedrijfsdata en dataproducten beschrijft in termen van wat is het, wie erover gaat, waar het te vinden is en tot welke informatieproducten het leidt.
+DataCatalog is een metadata registratie systeem dat bedrijfsdata en dataproducten beschrijft in termen van wat is het, wie erover gaat, waar het te vinden is en tot welke informatieproducten het leidt.
+```
 
 Alle in DataCatalog beschreven bedrijfsdata is op- of via Datahub beschikbaar.
 DataCatalog biedt naast metadata beschrijvingen ook:
