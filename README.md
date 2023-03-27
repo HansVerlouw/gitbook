@@ -2,6 +2,8 @@
 
 ## DataCatalog
 
+:information_source: Wat is het...
+
 {% code overflow="wrap" %}
 ```
 DataCatalog is een metadata registratie systeem dat bedrijfsdata en dataproducten beschrijft in termen van wat is het, wie erover gaat, waar het te vinden is en tot welke informatieproducten het leidt.
