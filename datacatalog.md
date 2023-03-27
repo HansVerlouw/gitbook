@@ -1,6 +1,12 @@
-## DataCatalog
+---
+coverY: 0
+---
 
-:information_source: Wat is het...
+# DataCatalog
+
+### DataCatalog
+
+:information\_source: Wat is het...
 
 {% code overflow="wrap" %}
 ```
@@ -25,9 +31,9 @@ Alle in DataCatalog beschreven bedrijfsdata is op- of via Datahub beschikbaar. D
 
 Concept/Outline BasisMetadata/Basismetadata Concept/Data lifecycle management Concept/Metadata baseline Concept/Domeinwaarden Concept/Samenstellen dataobjecten Concept/Modelleren dataobjecten Functies/Functies Concept/Standaarden Requirements/Requirements Datakwaliteit/Indicatoren.rst Functies/MetadataRecords.rst
 
-## Datahub
+### Datahub
 
-:information_source: Wat is het...
+:information\_source: Wat is het...
 
 {% code overflow="wrap" %}
 ```
@@ -42,5 +48,7 @@ In Datahub wordt:
 * data verrijkt en geanalyseerd,
 * Informatieproducten gerealiseerd,
 * Data en Informatieproducten gedistribueerd.
+
+<figure><img src=".gitbook/assets/DataHub Jip en Janneke.png" alt=""><figcaption></figcaption></figure>
 
 Zie ook de `architectuur <../html/_static/archi_datahub/archi_datahub.html>`\_ van DataHub
