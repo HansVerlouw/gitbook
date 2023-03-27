@@ -11,7 +11,7 @@ Dataobjecten kunnen via objectrelaties met andere dataobjecten gekoppeld worden 
 ### Objectmodellen
 
 * Vele dataobjecten in [DataCatalog](https://aa-en-maas.gitbook.io/testjes/datacatalog) maken deel uit van _0..n_ objectenmodellen.
-* De datamodellen volgen zo mogelijk nationale standaarden zoals _Aquo_, _GWSW_ etc.
+* De datamodellen volgen zo mogelijk nationale standaarden zoals [_Aquo_](https://www.aquo.nl/index.php), [_GWSW_](https://data.gwsw.nl/) etc.
 * Een dataobject is _loosely coupled_ aan attributen.
 
 ### Relaties
