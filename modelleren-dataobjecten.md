@@ -22,20 +22,19 @@ Bij het leggen van nieuwe relaties via `id` worden geautomatiseerd de unieke `gu
 
 In het basis (Archimate) objectenmodel worden alleen de volgende statische relaties gebruikt:
 
-.. table:: Relaties tussen dataobjecten
+Relaties tussen dataobjecten
 
-```
-= ============= =========================================================
-n Relatietype   Definitie
-= ============= =========================================================
-1 aggregates_to Wordt geaggregeerd door bovenliggend dataobject
-2 instanciates  Concretiseert bovenliggend dataobject
-3 inherits_from Erft kenmerken van bovenliggend dataobject
-4 specializes   Verbijzondering van bovenliggend dataobject
-5 part_of       Is onlosmakelijk onderdeel van bovenliggend dataobject
-6 depends_on    Is afhankelijk van bovenliggend dataobject
-7 relates_to    Is gerelateerd aan bovenliggend dataobject
-= ============= =========================================================
+```markdown
+| n | Relatietype | Definitie |
+| --- | ----------- | --------- |
+| 1 | aggregates_to | Wordt geaggregeerd door bovenliggend dataobject |
+| 2 | instanciates  | Concretiseert bovenliggend dataobject |
+| 3 | inherits_from | Erft kenmerken van bovenliggend dataobject |
+| 4 | specializes   | Verbijzondering van bovenliggend dataobject |
+| 5 | part_of       | Is onlosmakelijk onderdeel van bovenliggend dataobject |
+| 6 | depends_on    | Is afhankelijk van bovenliggend dataobject |
+| 7 | relates_to    | Is gerelateerd aan bovenliggend dataobject |
+
 ```
 
 Let op: We spreken hier over _dataobjecten_. Een dataobject 'stuw' is per definitie niet gelijk aan een bedrijfsobject 'stuw'.
